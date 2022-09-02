@@ -1,0 +1,20 @@
+body {background-color: skyblue;}
+*{
+    font-style: italic; font-size: 20px;
+}
+h1{
+    color: aqua ;
+}
+p{
+    color: blueviolet;
+}
+div{
+    color: coral;
+}
+header{text-align: center;}
+footer{text-align: center;}
+h1 {text-align: center;}
+h2{text-align: center;}
+h3{text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
