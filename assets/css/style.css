@@ -688,7 +688,7 @@ body {
   .cta {
     background: linear-gradient(rgba(20, 17, 17, 0.5), rgba(14, 13, 13, 0.8)),  center center;
     background-size: cover;
-    padding: 100px 0;
+    padding: 50px ;
     margin: 50px;
   }
   
